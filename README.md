@@ -6,6 +6,11 @@ The Main task for this app is checking the connectivity of the client account af
     2.  Call the EC2 list
     3.  Call the S3 bucket list
 
+
+![Alt text](assumerole.png?raw=true "Title")
+
+
+
 <h2>installation</h2>
 **Creating the virtual environment**
     sudo yum install python3 python3-venv
