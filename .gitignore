@@ -4,7 +4,11 @@
 # .tfstate files
 *.tfstate
 *.tfstate.*
+
 mySupport.txt
+temp.sh
+ecs-task*.py
+
 # Crash log files
 crash.log
 
