@@ -6,8 +6,8 @@
 *.tfstate.*
 
 mySupport.txt
-temp.sh
-ecs-task*.py
+app/temp.sh
+app/ecs-task*.py
 
 # Crash log files
 crash.log
