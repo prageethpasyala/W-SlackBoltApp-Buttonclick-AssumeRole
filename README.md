@@ -1,6 +1,6 @@
 <h1><b>SLACKBOT ASSUMEROLE APP</h1>
 
-The app main task is checking the connectivity of the client account after setting up the client's account. Assume role and trust relationships between accounts will be created during the process of the migration. This app contains 3 button options list from the remote account.   
+The app main task is checking the connectivity of the client account after setting up the client's account. The assume-role and trust-relationships between accounts will be create during the process of the migration.    
     This app contains 3 button options list from the remote account. <br />
 
         1.  Call assume role info 
