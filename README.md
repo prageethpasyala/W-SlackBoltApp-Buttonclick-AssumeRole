@@ -1,6 +1,6 @@
 <h1><b>SLACKBOT ASSUMEROLE APP</h1>
 
-The Main task for this app is checking the connectivity of the client account after running the landing zone pipeline. Assume role and trust relationships between accounts will be created during the process of the migration. 
+The app main task is checking the connectivity of the client account after running the landing zone pipeline. Assume role and trust relationships between accounts will be created during the process of the migration. 
     This app contains 3 button options list from the remote account.
     1.  Call assume role info
     2.  Call the EC2 list
