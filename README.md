@@ -2,9 +2,9 @@
 
 The app main task is checking the connectivity of the client account after running the landing zone pipeline. Assume role and trust relationships between accounts will be created during the process of the migration. 
     This app contains 3 button options list from the remote account.
-    1.  Call assume role info
-    2.  Call the EC2 list
-    3.  Call the S3 bucket list
+        1.  Call assume role info
+        2.  Call the EC2 list
+        3.  Call the S3 bucket list
 
 
 ![Alt text](assumerole.png?raw=true "Title")

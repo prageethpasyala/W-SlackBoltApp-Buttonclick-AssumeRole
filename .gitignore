@@ -5,7 +5,7 @@
 *.tfstate
 *.tfstate.*
 
-mySupport.txt
+app/mySupport.txt
 app/temp.sh
 app/ecs-task*.py
 
