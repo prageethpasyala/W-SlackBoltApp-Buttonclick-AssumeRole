@@ -29,7 +29,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/prageeth.pasyala/Documents/OnRamp/working_projects/SlackBoltApp-Buttonclick/.venv"
+set -gx VIRTUAL_ENV "/Users/prageeth.pasyala/Documents/OnRamp/working_projects/W-SlackBoltApp-Buttonclick-AssumeRole-Onramp-Oct/.venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
